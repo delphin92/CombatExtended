@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-	<Weapon_GrenadeFirefoam.label>Граната с противопожарной пеной</Weapon_GrenadeFirefoam.label>
+	<Weapon_GrenadeFirefoam.label>Пожарная граната</Weapon_GrenadeFirefoam.label>
 	<Weapon_GrenadeFirefoam.description>Специальная противопожарная граната. Выбрасывает противопожарнуб пену при ударе.</Weapon_GrenadeFirefoam.description>
 	<Weapon_GrenadeFlashbang.label>Светошумовая граната</Weapon_GrenadeFlashbang.label>
 	<Weapon_GrenadeFlashbang.description>Пиротехнический заряд, создающий яркую вспышку света и громкий шум, временно ослепляет и дезориентирует любого, оказавшегося поблизости.</Weapon_GrenadeFlashbang.description>

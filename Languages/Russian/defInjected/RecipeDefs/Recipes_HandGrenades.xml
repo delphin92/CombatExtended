@@ -1,20 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<MakeFragGrenade.label>make frag grenades x10</MakeFragGrenade.label>
-<MakeFragGrenade.description>Craft 10 frag grenades.</MakeFragGrenade.description>
-<MakeFragGrenade.jobstring>Making frag grenades.</MakeFragGrenade.jobstring>
+	<MakeFragGrenade.label>сделать осколочную гранату x10</MakeFragGrenade.label>
+	<MakeFragGrenade.description>Делать 10 осколочных гранат.</MakeFragGrenade.description>
+	<MakeFragGrenade.jobstring>Делает осколочные гранаты.</MakeFragGrenade.jobstring>
 
-<MakeMolotovCocktail.label>make molotov cocktails x10</MakeMolotovCocktail.label>
-<MakeMolotovCocktail.description>Craft 10 molotov cocktails.</MakeMolotovCocktail.description>
-<MakeMolotovCocktail.jobstring>Making frag grenades.</MakeMolotovCocktail.jobstring>
+	<MakeMolotovCocktail.label>сделать коктель молотова x10</MakeMolotovCocktail.label>
+	<MakeMolotovCocktail.description>Делать 10 коктелей молотова.</MakeMolotovCocktail.description>
+	<MakeMolotovCocktail.jobstring>Делает коктели молотова.</MakeMolotovCocktail.jobstring>
 
-<MakeEMPGrenade.label>make EMP grenades x10</MakeEMPGrenade.label>
-<MakeEMPGrenade.description>Craft 10 EMP grenades.</MakeEMPGrenade.description>
-<MakeEMPGrenade.jobstring>Making EMP grenades.</MakeEMPGrenade.jobstring>
+	<MakeEMPGrenade.label>сделать EMP гранату x10</MakeEMPGrenade.label>
+	<MakeEMPGrenade.description>Делать 10 EMP гранат.</MakeEMPGrenade.description>
+	<MakeEMPGrenade.jobstring>Делает EMP гранаты.</MakeEMPGrenade.jobstring>
 
-<MakeFlashbangGrenade.label>make flashbang grenades x10</MakeFlashbangGrenade.label>
-<MakeFlashbangGrenade.description>Craft 10 flashbang grenades.</MakeFlashbangGrenade.description>
-<MakeFlashbangGrenade.jobstring>Making flashbang grenades.</MakeFlashbangGrenade.jobstring>
+	<MakeFlashbangGrenade.label>сделать светошумовую гранату x10</MakeFlashbangGrenade.label>
+	<MakeFlashbangGrenade.description>Делать 10 светошумовых гранат.</MakeFlashbangGrenade.description>
+	<MakeFlashbangGrenade.jobstring>Делает светошумовые гранаты.</MakeFlashbangGrenade.jobstring>
+
+	<MakeStickBomb.label>сделать щепочную бомбу x10</MakeStickBomb.label>
+	<MakeStickBomb.description>Делать 10 щепочных бомб</MakeStickBomb.description>
+	<MakeStickBomb.jobString>Делает щепочные бомбы.</MakeStickBomb.jobString>
+
+	<MakeSmokeGrenade.label>сделать дымовую шашку x10</MakeSmokeGrenade.label>
+	<MakeSmokeGrenade.description>Делать 10 дымовых шашек.</MakeSmokeGrenade.description>
+	<MakeSmokeGrenade.jobString>Делает дымовые шашки.</MakeSmokeGrenade.jobString>
+
+	<MakeFirefoamGrenade.label>сделать пожарную гранату x10</MakeFirefoamGrenade.label>
+	<MakeFirefoamGrenade.description>Делать 10 пожарных гранат</MakeFirefoamGrenade.description>
+	<MakeFirefoamGrenade.jobString>Делает пожарные гранаты</MakeFirefoamGrenade.jobString>
 
 </LanguageData>

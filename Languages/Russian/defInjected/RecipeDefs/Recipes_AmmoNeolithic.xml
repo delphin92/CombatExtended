@@ -1,24 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<MakeArrow_Stone.label>сделать каменные стрелы x50</MakeArrow_Stone.label>
-<MakeArrow_Stone.description>Сделать 50 каменных стрел.</MakeArrow_Stone.description>
-<MakeArrow_Stone.jobstring>Делает каменные стрелы.</MakeArrow_Stone.jobstring>
+	<MakeAmmo_Arrow_Stone.label>сделать каменные стрелы x50</MakeAmmo_Arrow_Stone.label>
+	<MakeAmmo_Arrow_Stone.description>Сделать 50 каменных стрел.</MakeAmmo_Arrow_Stone.description>
+	<MakeAmmo_Arrow_Stone.jobstring>Делает каменные стрелы.</MakeAmmo_Arrow_Stone.jobstring>
+		 
+	<MakeAmmo_Arrow_Steel.label>сделать стальные стрелы x50</MakeAmmo_Arrow_Steel.label>
+	<MakeAmmo_Arrow_Steel.description>Сделать 50 стальных стрел.</MakeAmmo_Arrow_Steel.description>
+	<MakeAmmo_Arrow_Steel.jobstring>Делает стальные стрелы.</MakeAmmo_Arrow_Steel.jobstring>
+		 
+	<MakeAmmo_Arrow_Explosive.label>сделать взрывные стрелы x50</MakeAmmo_Arrow_Explosive.label>
+	<MakeAmmo_Arrow_Explosive.description>Сделать 50 взрывных стрел.</MakeAmmo_Arrow_Explosive.description>
+	<MakeAmmo_Arrow_Explosive.jobstring>Делает взрывные стрелы.</MakeAmmo_Arrow_Explosive.jobstring>
 
-<MakeArrow_Metallic.label>сделать металлические стрелы x50</MakeArrow_Metallic.label>
-<MakeArrow_Metallic.description>Сделать 50 металлических стрел.</MakeArrow_Metallic.description>
-<MakeArrow_Metallic.jobstring>Делает металлические стрелы.</MakeArrow_Metallic.jobstring>
+	<MakeAmmo_CrossbowBolt_Steel.label>сделать стальные болты x50</MakeAmmo_CrossbowBolt_Steel.label>
+	<MakeAmmo_CrossbowBolt_Steel.description>Сделать 50 стальных болтов.</MakeAmmo_CrossbowBolt_Steel.description>
+	<MakeAmmo_CrossbowBolt_Steel.jobstring>Делает болты.</MakeAmmo_CrossbowBolt_Steel.jobstring>
 
-<MakeArrow_Explosive.label>сделать взрывные стрелы x50</MakeArrow_Explosive.label>
-<MakeArrow_Explosive.description>Сделать 50 взрывных стрел.</MakeArrow_Explosive.description>
-<MakeArrow_Explosive.jobstring>Делает взрывные стрелы.</MakeArrow_Explosive.jobstring>
+	<MakeAmmo_CrossbowBolt_Explosive.label>сделать взрывные болты x50</MakeAmmo_CrossbowBolt_Explosive.label>
+	<MakeAmmo_CrossbowBolt_Explosive.description>Сделать 50 взрывных болтов.</MakeAmmo_CrossbowBolt_Explosive.description>
+	<MakeAmmo_CrossbowBolt_Explosive.jobstring>Делает взрывные болты.</MakeAmmo_CrossbowBolt_Explosive.jobstring>
+	
+	<MakeAmmo_CrossbowBolt_Plasteel.label>сделать болты из пластали x50</MakeAmmo_CrossbowBolt_Plasteel.label>
+	<MakeAmmo_CrossbowBolt_Plasteel.description>Сделать 50 болтов из пластали.</MakeAmmo_CrossbowBolt_Plasteel.description>
+	<MakeAmmo_CrossbowBolt_Plasteel.jobString>Делает болты из пластали.</MakeAmmo_CrossbowBolt_Plasteel.jobString>
 
-<MakeBolt_Metallic.label>сделать металлические болты x50</MakeBolt_Metallic.label>
-<MakeBolt_Metallic.description>Сделать 50 металлических болтов.</MakeBolt_Metallic.description>
-<MakeBolt_Metallic.jobstring>Делает болты.</MakeBolt_Metallic.jobstring>
+	<MakeAmmo_Arrow_Plasteel.label>сделать стрелы из пластали x50</MakeAmmo_Arrow_Plasteel.label>
+	<MakeAmmo_Arrow_Plasteel.description>Сделать 50 стрел из пластали.</MakeAmmo_Arrow_Plasteel.description>
+	<MakeAmmo_Arrow_Plasteel.jobstring>Делает стрелы из пластали.</MakeAmmo_Arrow_Plasteel.jobstring>
+	
+	<MakeAmmo_GreatArrow_Stone.label>сделать тяжелые каменные стрелы x50</MakeAmmo_GreatArrow_Stone.label>
+	<MakeAmmo_GreatArrow_Stone.description>Сделать 50 тяжелых каменных стрел.</MakeAmmo_GreatArrow_Stone.description>
+	<MakeAmmo_GreatArrow_Stone.jobString>Делает тяжелые каменные стрелы.</MakeAmmo_GreatArrow_Stone.jobString>
 
-<MakeBolt_Explosive.label>сделать взрывные болты x50</MakeBolt_Explosive.label>
-<MakeBolt_Explosive.description>Сделать 50 взрывных болтов.</MakeBolt_Explosive.description>
-<MakeBolt_Explosive.jobstring>Делает взрывные болты.</MakeBolt_Explosive.jobstring>
+	<MakeAmmo_GreatArrow_Steel.label>сделать тяжелые стальные стрелы x50</MakeAmmo_GreatArrow_Steel.label>
+	<MakeAmmo_GreatArrow_Steel.description>Сделать 50 тяжелых стальных стрел.</MakeAmmo_GreatArrow_Steel.description>
+	<MakeAmmo_GreatArrow_Steel.jobString>Делает тяжелые стальные стрелы.</MakeAmmo_GreatArrow_Steel.jobString>
+
+	<MakeAmmo_GreatArrow_Plasteel.label>сделать тяжелые стрелы из пластали x50</MakeAmmo_GreatArrow_Plasteel.label>
+	<MakeAmmo_GreatArrow_Plasteel.description>Сделать 50 тяжелых стрел из пластали.</MakeAmmo_GreatArrow_Plasteel.description>
+	<MakeAmmo_GreatArrow_Plasteel.jobString>Делает тяжелые стрелы из пластали.</MakeAmmo_GreatArrow_Plasteel.jobString>
 
 </LanguageData>

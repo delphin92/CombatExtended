@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<MakeAmmo_12Gauge_Buck.label>сделать 12 gauge (Buck) shell x100</MakeAmmo_12Gauge_Buck.label>
-<MakeAmmo_12Gauge_Buck.description>Сделать 100 12 gauge (Buck) shells.</MakeAmmo_12Gauge_Buck.description>
-<MakeAmmo_12Gauge_Buck.jobstring>Делает 12 gauge (Buck) shells.</MakeAmmo_12Gauge_Buck.jobstring>
+<MakeAmmo_12Gauge_Buck.label>сделать патроны 12 калибра (картечь) x100</MakeAmmo_12Gauge_Buck.label>
+<MakeAmmo_12Gauge_Buck.description>Сделать 100 патронов 12 калибра (картечь).</MakeAmmo_12Gauge_Buck.description>
+<MakeAmmo_12Gauge_Buck.jobstring>Делает патроны 12 калибра (картечь).</MakeAmmo_12Gauge_Buck.jobstring>
 
-<MakeAmmo_12Gauge_Bird.label>сделать 12 gauge (Bird) shell x100</MakeAmmo_12Gauge_Bird.label>
-<MakeAmmo_12Gauge_Bird.description>Сделать 100 12 gauge (Bird) shells.</MakeAmmo_12Gauge_Bird.description>
-<MakeAmmo_12Gauge_Bird.jobstring>Делает 12 gauge (Bird) shells.</MakeAmmo_12Gauge_Bird.jobstring>
+<MakeAmmo_12Gauge_Bird.label>сделать патроны 12 калибра (дробь) x100</MakeAmmo_12Gauge_Bird.label>
+<MakeAmmo_12Gauge_Bird.description>Сделать 100 патронов 12 калибра (дробь).</MakeAmmo_12Gauge_Bird.description>
+<MakeAmmo_12Gauge_Bird.jobstring>Делает патроны 12 калибра (дробь).</MakeAmmo_12Gauge_Bird.jobstring>
 
-<MakeAmmo_12Gauge_Slug.label>сделать 12 gauge (Slug) shell x100</MakeAmmo_12Gauge_Slug.label>
-<MakeAmmo_12Gauge_Slug.description>Сделать 100 12 gauge (Slug) shells.</MakeAmmo_12Gauge_Slug.description>
-<MakeAmmo_12Gauge_Slug.jobstring>Делает 12 gauge (Slug) shells.</MakeAmmo_12Gauge_Slug.jobstring>
+<MakeAmmo_12Gauge_Slug.label>сделать патроны 12 калибра (пуля) x100</MakeAmmo_12Gauge_Slug.label>
+<MakeAmmo_12Gauge_Slug.description>Сделать 100 патронов 12 калибра (пуля).</MakeAmmo_12Gauge_Slug.description>
+<MakeAmmo_12Gauge_Slug.jobstring>Делает патроны 12 калибра (пуля).</MakeAmmo_12Gauge_Slug.jobstring>
 
-<MakeAmmo_12Gauge_Beanbag.label>сделать 12 gauge (Beanbag) shell x100</MakeAmmo_12Gauge_Beanbag.label>
-<MakeAmmo_12Gauge_Beanbag.description>Сделать 100 12 gauge (Beanbag) shells.</MakeAmmo_12Gauge_Beanbag.description>
-<MakeAmmo_12Gauge_Beanbag.jobstring>Делает 12 gauge (Beanbag) shells.</MakeAmmo_12Gauge_Beanbag.jobstring>
+<MakeAmmo_12Gauge_Beanbag.label>сделать патроны 12 калибра (травмат) x100</MakeAmmo_12Gauge_Beanbag.label>
+<MakeAmmo_12Gauge_Beanbag.description>Сделать 100 патронов 12 калибра (травмат).</MakeAmmo_12Gauge_Beanbag.description>
+<MakeAmmo_12Gauge_Beanbag.jobstring>Делает патроны 12 калибра (травмат).</MakeAmmo_12Gauge_Beanbag.jobstring>
 
-<MakeAmmo_12Gauge_ElectroSlug.label>сделать 12 gauge (EMP) shell x100</MakeAmmo_12Gauge_ElectroSlug.label>
-<MakeAmmo_12Gauge_ElectroSlug.description>Сделать 100 12 gauge (EMP) shells.</MakeAmmo_12Gauge_ElectroSlug.description>
-<MakeAmmo_12Gauge_ElectroSlug.jobstring>Делает 12 gauge (EMP) shells.</MakeAmmo_12Gauge_ElectroSlug.jobstring>
+<MakeAmmo_12Gauge_ElectroSlug.label>сделать патроны 12 калибра (EMP) x100</MakeAmmo_12Gauge_ElectroSlug.label>
+<MakeAmmo_12Gauge_ElectroSlug.description>Сделать 100 патронов 12 калибра (EMP).</MakeAmmo_12Gauge_ElectroSlug.description>
+<MakeAmmo_12Gauge_ElectroSlug.jobstring>Делает патроны 12 калибра (EMP).</MakeAmmo_12Gauge_ElectroSlug.jobstring>
 
 </LanguageData>

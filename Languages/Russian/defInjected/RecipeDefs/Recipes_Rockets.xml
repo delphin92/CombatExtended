@@ -1,44 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<MakeAmmo_RPG7Grenade_HEAT.label>make RPG-7 HEAT grenades x5</MakeAmmo_RPG7Grenade_HEAT.label>
-<MakeAmmo_RPG7Grenade_HEAT.description>Craft 5 RPG-7 HEAT grenades.</MakeAmmo_RPG7Grenade_HEAT.description>
-<MakeAmmo_RPG7Grenade_HEAT.jobstring>Making RPG-7 HEAT grenades.</MakeAmmo_RPG7Grenade_HEAT.jobstring>
+<сделатьAmmo_RPG7Grenade_HEAT.label>сделать RPG-7 HEAT grenades x5</сделатьAmmo_RPG7Grenade_HEAT.label>
+<сделатьAmmo_RPG7Grenade_HEAT.description>Делать 5 RPG-7 HEAT grenades.</сделатьAmmo_RPG7Grenade_HEAT.description>
+<сделатьAmmo_RPG7Grenade_HEAT.jobstring>Делает RPG-7 HEAT grenades.</сделатьAmmo_RPG7Grenade_HEAT.jobstring>
 
-<MakeAmmo_RPG7Grenade_Thermobaric.label>make RPG-7 thermobaric grenades x5</MakeAmmo_RPG7Grenade_Thermobaric.label>
-<MakeAmmo_RPG7Grenade_Thermobaric.description>Craft 5 RPG-7 thermobaric grenades.</MakeAmmo_RPG7Grenade_Thermobaric.description>
-<MakeAmmo_RPG7Grenade_Thermobaric.jobstring>Making RPG-7 thermobaric grenades.</MakeAmmo_RPG7Grenade_Thermobaric.jobstring>
+<сделатьAmmo_RPG7Grenade_Thermobaric.label>сделать RPG-7 thermobaric grenades x5</сделатьAmmo_RPG7Grenade_Thermobaric.label>
+<сделатьAmmo_RPG7Grenade_Thermobaric.description>Делать 5 RPG-7 thermobaric grenades.</сделатьAmmo_RPG7Grenade_Thermobaric.description>
+<сделатьAmmo_RPG7Grenade_Thermobaric.jobstring>Делает RPG-7 thermobaric grenades.</сделатьAmmo_RPG7Grenade_Thermobaric.jobstring>
 
-<MakeAmmo_RPG7Grenade_Frag.label>make RPG-7 frag grenades x5</MakeAmmo_RPG7Grenade_Frag.label>
-<MakeAmmo_RPG7Grenade_Frag.description>Craft 5 RPG-7 frag grenades.</MakeAmmo_RPG7Grenade_Frag.description>
-<MakeAmmo_RPG7Grenade_Frag.jobstring>Making RPG-7 frag grenades.</MakeAmmo_RPG7Grenade_Frag.jobstring>
+<сделатьAmmo_RPG7Grenade_Frag.label>сделать RPG-7 frag grenades x5</сделатьAmmo_RPG7Grenade_Frag.label>
+<сделатьAmmo_RPG7Grenade_Frag.description>Делать 5 RPG-7 frag grenades.</сделатьAmmo_RPG7Grenade_Frag.description>
+<сделатьAmmo_RPG7Grenade_Frag.jobstring>Делает RPG-7 frag grenades.</сделатьAmmo_RPG7Grenade_Frag.jobstring>
 
-<MakeAmmo_M72LAW_HEAT.label>make M72 LAW HEAT grenades x5</MakeAmmo_M72LAW_HEAT.label>
-<MakeAmmo_M72LAW_HEAT.description>Craft 5 M72 LAW HEAT grenades.</MakeAmmo_M72LAW_HEAT.description>
-<MakeAmmo_M72LAW_HEAT.jobstring>Making M72 LAW HEAT grenades.</MakeAmmo_M72LAW_HEAT.jobstring>
+<сделатьAmmo_M72LAW_HEAT.label>сделать M72 LAW HEAT grenades x5</сделатьAmmo_M72LAW_HEAT.label>
+<сделатьAmmo_M72LAW_HEAT.description>Делать 5 M72 LAW HEAT grenades.</сделатьAmmo_M72LAW_HEAT.description>
+<сделатьAmmo_M72LAW_HEAT.jobstring>Делает M72 LAW HEAT grenades.</сделатьAmmo_M72LAW_HEAT.jobstring>
 
-<MakeAmmo_M72LAW_Thermobaric.label>make M72 LAW thermobaric grenades x5</MakeAmmo_M72LAW_Thermobaric.label>
-<MakeAmmo_M72LAW_Thermobaric.description>Craft 5 M72 LAW thermobaric grenades.</MakeAmmo_M72LAW_Thermobaric.description>
-<MakeAmmo_M72LAW_Thermobaric.jobstring>Making M72 LAW thermobaric grenades.</MakeAmmo_M72LAW_Thermobaric.jobstring>
+<сделатьAmmo_M72LAW_Thermobaric.label>сделать M72 LAW thermobaric grenades x5</сделатьAmmo_M72LAW_Thermobaric.label>
+<сделатьAmmo_M72LAW_Thermobaric.description>Делать 5 M72 LAW thermobaric grenades.</сделатьAmmo_M72LAW_Thermobaric.description>
+<сделатьAmmo_M72LAW_Thermobaric.jobstring>Делает M72 LAW thermobaric grenades.</сделатьAmmo_M72LAW_Thermobaric.jobstring>
 
-<MakeAmmo_M72LAW_Frag.label>make M72 LAW frag grenades x5</MakeAmmo_M72LAW_Frag.label>
-<MakeAmmo_M72LAW_Frag.description>Craft 5 M72 LAW frag grenades.</MakeAmmo_M72LAW_Frag.description>
-<MakeAmmo_M72LAW_Frag.jobstring>Making M72 LAW frag grenades.</MakeAmmo_M72LAW_Frag.jobstring>
+<сделатьAmmo_M72LAW_Frag.label>сделать M72 LAW frag grenades x5</сделатьAmmo_M72LAW_Frag.label>
+<сделатьAmmo_M72LAW_Frag.description>Делать 5 M72 LAW frag grenades.</сделатьAmmo_M72LAW_Frag.description>
+<сделатьAmmo_M72LAW_Frag.jobstring>Делает M72 LAW frag grenades.</сделатьAmmo_M72LAW_Frag.jobstring>
 
-<MakeAmmo_FGMJ_HEAT.label>make AT Missile HEAT x5</MakeAmmo_FGMJ_HEAT.label>
-<MakeAmmo_FGMJ_HEAT.description>Craft 5 AT Missile HEAT round.</MakeAmmo_FGMJ_HEAT.description>
-<MakeAmmo_FGMJ_HEAT.jobstring>Making AT Missile HEAT round.</MakeAmmo_FGMJ_HEAT.jobstring>
+<сделатьAmmo_FGMJ_HEAT.label>сделать AT Missile HEAT x5</сделатьAmmo_FGMJ_HEAT.label>
+<сделатьAmmo_FGMJ_HEAT.description>Делать 5 AT Missile HEAT round.</сделатьAmmo_FGMJ_HEAT.description>
+<сделатьAmmo_FGMJ_HEAT.jobstring>Делает AT Missile HEAT round.</сделатьAmmo_FGMJ_HEAT.jobstring>
 
-<MakeAmmo_FGMJ_Thermobaric.label>make AT Missile Thermobaric round x5</MakeAmmo_FGMJ_Thermobaric.label>
-<MakeAmmo_FGMJ_Thermobaric.description>Craft 5 make AT Missile Thermobaric round.</MakeAmmo_FGMJ_Thermobaric.description>
-<MakeAmmo_FGMJ_Thermobaric.jobstring>Making make AT Missile Thermobaric round.</MakeAmmo_FGMJ_Thermobaric.jobstring>
+<сделатьAmmo_FGMJ_Thermobaric.label>сделать AT Missile Thermobaric round x5</сделатьAmmo_FGMJ_Thermobaric.label>
+<сделатьAmmo_FGMJ_Thermobaric.description>Делать 5 сделать AT Missile Thermobaric round.</сделатьAmmo_FGMJ_Thermobaric.description>
+<сделатьAmmo_FGMJ_Thermobaric.jobstring>Делает сделать AT Missile Thermobaric round.</сделатьAmmo_FGMJ_Thermobaric.jobstring>
 
-<MakeAmmo_FGMJ_Frag.label>make AT Missile round x5</MakeAmmo_FGMJ_Frag.label>
-<MakeAmmo_FGMJ_Frag.description>Craft 5 AT Missile round.</MakeAmmo_FGMJ_Frag.description>
-<MakeAmmo_FGMJ_Frag.jobstring>Making AT Missile round.</MakeAmmo_FGMJ_Frag.jobstring>
+<сделатьAmmo_FGMJ_Frag.label>сделать AT Missile round x5</сделатьAmmo_FGMJ_Frag.label>
+<сделатьAmmo_FGMJ_Frag.description>Делать 5 AT Missile round.</сделатьAmmo_FGMJ_Frag.description>
+<сделатьAmmo_FGMJ_Frag.jobstring>Делает AT Missile round.</сделатьAmmo_FGMJ_Frag.jobstring>
 
-<MakeAmmo_130mmRocketMissile.label>make 130mm Rocket missiles x2</MakeAmmo_130mmRocketMissile.label>
-<MakeAmmo_130mmRocketMissile.description>Craft 2 130mm Rocket missiles.</MakeAmmo_130mmRocketMissile.description>
-<MakeAmmo_130mmRocketMissile.jobstring>Making 130mm Rocket missiles.</MakeAmmo_130mmRocketMissile.jobstring>
+<сделатьAmmo_130mmRocketMissile.label>сделать 130mm Rocket missiles x2</сделатьAmmo_130mmRocketMissile.label>
+<сделатьAmmo_130mmRocketMissile.description>Делать 2 130mm Rocket missiles.</сделатьAmmo_130mmRocketMissile.description>
+<сделатьAmmo_130mmRocketMissile.jobstring>Делает 130mm Rocket missiles.</сделатьAmmo_130mmRocketMissile.jobstring>
 
 </LanguageData>
